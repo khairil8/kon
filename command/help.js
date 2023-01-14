@@ -518,4 +518,47 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `Untuk List Sewa ubah sendiri di folder command, file help.js 👌 baris ke 521`
+exports.sewanya = `╭──「 *_SEWABOT_* 」
+│❏  1 Minggu : RM 5.00
+│❏  1 Bulan : RM 10.00
+│❏  2 Bulan : RM 15.00
+╰────
+╭─ [ *_KELEBIHAN BOT_* ]
+│❏  On 24 Jam
+│❏  Fitur Lengkap
+│❏  No Error
+╰────
+╭─[ *_Keuntungan_* ]
+│❏  Antilink ( Auto Kick )
+│❏  Welcome Image
+│❏  Leave Image
+│❏  Cocok Buat Jaga Grup
+│❏  Dan Ratusan Fitur Lainnya
+╰────
+╭─[ *_MINAT CHAT_* ]
+│❏  🪀 wa.me/60109102984
+╰────
+
+╭──「 *_JADIBOT + OWNER_* 」
+│❏   RM 20.00
+╰────
+╭─ [ *_FASILITAS_* ]
+│❏  Cuma Scan QR Doang
+│❏  Fitur Bot Nya Banyak
+│❏  Banyak Fitur Langka
+╰────
+╭─[ *_KEUNTUNGAN_* ]
+│❏  Bisa Open Sewabot
+│❏  Nama Bot + Owner
+│❏  Bisa Dapat Cuan
+╰────
+╭─[ *_MINAT CHAT_* ]
+│❏  🪀 wa.me/60109102984
+╰──── 
+
+╭─[ *_PEMBAYARAN_*  ]
+│❏  Via Digi 0109102984
+│❏  Via Ewallet
+│❏  Via Shopeepay
+╰────────────
+©Khairil春`
